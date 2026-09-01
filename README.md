@@ -17,4 +17,5 @@ Day 17: Lactate normalized to 1.4 mmol/L, symptoms resolved, renal function tren
 Metformin was not rechallenged given the diagnosis and residual renal impairment
 
 Naranjo Scale Scoring
-Total Score: 6 → Probable
+**Total Score: 6 → Probable
+**
